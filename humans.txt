@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Viorel Mihaescu viorel.mihaescu@cognyte.com
 
 # THANKS
 
